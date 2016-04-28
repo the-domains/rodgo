@@ -1,0 +1,28 @@
+name: RodGo
+favicon: null
+layout_spectrum: 0.23223591526038945
+typography_spectrum: 0.26219519949518144
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.38155332137830555
+  lightness: 0.3468884052708745
+  saturation: 0.3162500811740756
+  rhythmicContrast: 0.8738478291779757
+purpose: []
